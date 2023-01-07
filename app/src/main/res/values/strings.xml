@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temporizador</string>
+    <string name="title">Organizador de tareas</string>
+    <string name="tituloTarea">Tú tarea</string>
+    <string name="tarea">La descripcion de tu tarea</string>
+    <string name="boton">Agregar tarea</string>
+    <string name="tarea_agendada">Agendar tarea</string>
+    <string name="cancel">Cancelar</string>
+</resources>
